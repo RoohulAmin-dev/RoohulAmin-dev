@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Roohul Amin 👋
 
-<!--
-**RoohulAmin-dev/RoohulAmin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BSCS Student @ Northern University
+* 💻 Learning **Java, Python & Problem Solving**
+* 🚀 Currently building small projects to improve daily
 
-Here are some ideas to get you started:
+### 🔧 Skills
+* **Java** (Basics → OOP)
+* **Python** (Beginner)
+* **SQL** (Strong)
+*  **ReactJS** (Strong)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Goals
+* Build 10 real-world projects
+* Contribute to open source
+* Become a job-ready developer
+
+### 📫 Connect with me
+https://www.linkedlin.com/Roohul-Amin-dev

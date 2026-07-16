@@ -1,8 +1,13 @@
 # Hi, I'm Roohul Amin 👋
 
-### 🎓 BSCS Student @ Northern University
-* 💻 Learning **Java, Python & Problem Solving**
-* 🚀 Currently building small projects to improve daily
+### 🎓 BSCS Student @ Northern University Nowshera, Pakistan
+
+* 💻 Learning **Python and AI for mastering ML, DL, Agentic AI, and AGI**
+* 🚀 Currently building unique Python programs that solve real-world problems, moving away from generic internet boilerplate.
+* 🛠️ **Featured AI Projects:**
+  * **Handwriting Recognition System:** Built using *TensorFlow, Flask, and the EMNIST dataset*.
+  * **Next Word Prediction Engine:** Built using *Pre-trained OpenAI models and FastAPI*.
+ 
 
 ### 🔧 Skills
 * **Java** (Basics → OOP)
@@ -43,6 +48,5 @@
 
 ## Socials
 [![Preview](/assets/twitter.png)](https://twitter.com/) &nbsp;
-[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/RoohulAmin-dev) &nbsp;
+[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/roohul-amin-dev) &nbsp;
 [![Preview](/assets/youtube.png)](https://www.youtube.com/roohul-amin-dev) &nbsp;
-[![Preview](/assets/facebook.png)](https://www.facebook.com/roohul-amin-dev) &nbsp;

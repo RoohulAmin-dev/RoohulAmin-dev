@@ -168,11 +168,7 @@ goal: Build real-world projects, contribute to open source, become job-ready
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7F7&height=120&section=footer"/>
 
 </div>
-
-  - **Handwriting Recognition System:** Built using *TensorFlow, Flask, and the EMNIST dataset*.
-  - **Next Word Prediction Engine:** Built using *Pre-trained OpenAI models and FastAPI*.
  
-
 ### 🔧 Skills
 * **Java** (Basics → OOP)
 * **Python** (Beginner)
@@ -211,6 +207,6 @@ goal: Build real-world projects, contribute to open source, become job-ready
 
 
 ## Socials
-[![Preview](/assets/twitter.png)](https://twitter.com/) &nbsp;
+[![Preview](/assets/twitter.png)](https://x.com/RhaTechnic16583) &nbsp;
 [![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/roohul-amin-dev) &nbsp;
 [![Preview](/assets/youtube.png)](https://www.youtube.com/roohul-amin-dev) &nbsp;
